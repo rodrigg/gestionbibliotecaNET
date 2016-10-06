@@ -75,7 +75,7 @@
       <div class="modal-body">
           <asp:Label ID="lblMensaje" runat="server" Text="¿Esta usted seguro que desea borrar?"></asp:Label>
          
-          <asp:TextBox ID="txtIdUsuario" runat="server" Enabled="false" Visible="false"></asp:TextBox>
+          <asp:TextBox ID="txtIdUsuario" runat="server" Enabled="false" Visible="false" value=""></asp:TextBox>
 
 
       </div>
